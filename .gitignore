@@ -1,0 +1,10 @@
+data/*.db
+data/*.db-*
+frontend/node_modules/
+frontend/dist/
+.pytest_cache/
+__pycache__/
+*.pyc
+.env
+.idea/
+ 
